@@ -1,0 +1,17 @@
+﻿body {
+}
+
+.mytxt
+{
+    background-color: #00FFFF;
+    border: medium dashed #FF0000;
+
+}
+
+
+.mybtn
+{
+    background-color: #FFFF00;
+    border: medium dashed #FF0000;
+    color: #800000;
+}
